@@ -24,3 +24,9 @@ OR
 ```
 bash <(curl -Ls https://raw.githubusercontents.com/akiiya/XrayR-script/master/install.sh)
 ```
+
+# fork后一键安装
+
+```
+bash <(curl -Ls https://raw.githubusercontents.com/weilaikeqi886/XrayR-script/master/install.sh)
+```
